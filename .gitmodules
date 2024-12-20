@@ -1,6 +1,0 @@
-[submodule "week-two/deploying-erc20/deployingWithFoundry/lib/forge-std"]
-	path = week-two/deploying-erc20/deployingWithFoundry/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "week-two/deploying-erc20/deployingWithFoundry/lib/openzeppelin-contracts"]
-	path = week-two/deploying-erc20/deployingWithFoundry/lib/openzeppelin-contracts
-	url = https://github.com/openzeppelin/openzeppelin-contracts
