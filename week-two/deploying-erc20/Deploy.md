@@ -1,10 +1,10 @@
-**Follow these Instructions for Setting Up Hardhat and Foundry**  
+**Follow These Instructions for Setting Up Hardhat and Foundry**  
 
 To set up your development environment for Hardhat and Foundry, refer to our step-by-step guide:  
 [Hardhat and Foundry Setup Instructions](https://github.com/Build-Deploy-Scale-with-Lisk/Lisk-Tutorials/tree/main/week-one/hardhat-and-foundry).  
 
 ### **Important Note**  
-Ensure you install OpenZeppelin contracts, as they are required for your project. Failing to do so will result in compilation errors.  
+Ensure you install OpenZeppelin contracts, as they are essential for compiling and deploying your token contracts successfully. Failing to do so will result in compilation errors.  
 
 - **For Hardhat:**  
   Run the following command to install OpenZeppelin contracts:  
@@ -18,6 +18,12 @@ Ensure you install OpenZeppelin contracts, as they are required for your project
   forge install openzeppelin/openzeppelin-contracts --no-commit
   ```  
 
-This setup is essential for compiling and deploying your Token contracts successfully.
+### **Use Our Boilerplate Projects**  
+To save time and streamline your workflow, feel free to use our pre-configured projects as boilerplates for deploying your tokens:  
+- **Hardhat Boilerplate:**  
+  [Deploying ERC20 with Hardhat](https://github.com/Build-Deploy-Scale-with-Lisk/Lisk-Tutorials/tree/main/week-two/deploying-erc20/deployingWithHardhat)  
 
-feel free to use our hardhat and fourndry projects as boilerplate for your tokens
+- **Foundry Boilerplate:**  
+  [Deploying ERC20 with Foundry](https://github.com/Build-Deploy-Scale-with-Lisk/Lisk-Tutorials/tree/main/week-two/deploying-erc20/deployingWithFoundry)  
+
+By following these steps, using the boilerplates, and ensuring the proper setup, you’ll compile and deploy your token contracts successfully.
