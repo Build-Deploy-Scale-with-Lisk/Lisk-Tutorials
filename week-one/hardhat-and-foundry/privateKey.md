@@ -1,0 +1,8 @@
+Get your private MetaMask keyWhile writing and deploying your contract you sign off each contract with your private key to tell the blockchain that you are a legit person creating a real transaction. Now if that private key is made visible, the hacker can gain access to your account and then the rest will be history.Open the metamask extension to find your private key.Click on Account.Click on the 3 dots on the right side and go to “Account Details”.Click on “Show private key”.Enter Metamask password.Copy your private key.
+
+Getting Ready for DeploymentFirst, let’s do some basic housekeeping stuff. We know that massive scams and security issues are happening in the crypto world. You make a mistake and it can cost you a lifetime.While writing and deploying your contract you sign off each contract with your private key to tell the blockchain that you are a legit person creating a real transaction. Now if that private key is made visible, the hacker can gain access to your account and then the rest will be history. To avoid this issue. Let’s do the following.
+
+npm install dotenv --save --force
+touch .gitignore
+Now go ahead and create a .env file at the base of your project. Open your .gitignore file and write .env there.All the secrets and important keys related to your project will be stored in a .env file and we can access this data whenever and wherever. In the git ignore file we simply write .env, it tells git to ignore that file from future commits.Open the .env file you have just created. Add your Metamask Private Key. Should be something like this.
+PRIVATE_KEY=YOUR_METAMASK_PRIVATE_KEY
