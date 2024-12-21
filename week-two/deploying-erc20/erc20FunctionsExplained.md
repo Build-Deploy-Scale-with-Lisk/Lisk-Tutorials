@@ -1,4 +1,4 @@
-**Lecture: Understanding OpenZeppelin ERC20 Functions**  
+**Understanding OpenZeppelin ERC20 Functions**  
 
 *We’ll dive into the core functions of the ERC20 standard using OpenZeppelin's implementation as our guide. We'll discuss some of the most critical functions you'll encounter in ERC20 tokens, such as minting, transferring, and managing ownership.*
 
