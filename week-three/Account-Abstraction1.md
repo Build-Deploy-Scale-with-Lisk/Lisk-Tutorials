@@ -143,9 +143,4 @@ There’s no arguing that smart accounts are the future of web3 interactions and
 
 We hope this lesson has helped you better understand what account abstraction is, why ERC-4337 is such a major unlock for the web3 wallet experience, and some example use cases that you can implement into your dApps with account abstraction today.
 
-## AA Providers
-### Safe
-Safe is the account abstraction leader on Ethereum and the EVM with the most secure smart wallet infrastructure and platform. Safe brings digital ownership of accounts to everyone by building universal and open contract standards for the custody of digital assets, data, and identity.
-
-### 1Balance
-1Balance is a unified multi-chain payments system. 1Balance makes it easy for you to pay all of your costs across all the networks that you are using from one single easy-to-manage balance.
+ 

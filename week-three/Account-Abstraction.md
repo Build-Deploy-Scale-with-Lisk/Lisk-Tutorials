@@ -1,3 +1,4 @@
+ 
 # What is Account Abstraction?
 Account Abstraction refers to the development of blockchain technology for higher flexibility, ease of use, and security when dealing with accounts on a blockchain. Normally, most blockchain networks, such as Ethereum, are designed based on two primary kinds of accounts.
 
