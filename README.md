@@ -1,4 +1,4 @@
-This repository contains a series of tutorials designed to help developers get started with Blockchain development and build decentralized applications during a bootcamp.
+This repository contains a series of tutorials designed to help developers get started with Blockchain development and build decentralized applications.
 
  
 
