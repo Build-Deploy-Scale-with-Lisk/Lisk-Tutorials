@@ -13,6 +13,7 @@ Before you begin, make sure you have the following tools installed:
 - Node.js (version 14 or higher)
 - npm (Node Package Manager)
 - Git
+- Foundry
 
 ## Getting Started
 
